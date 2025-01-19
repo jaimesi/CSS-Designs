@@ -1,0 +1,64 @@
+body {
+    font-family: 'Alexandria', sans-serif;
+    background-color: #1E1E1E;
+}
+
+.header {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    color: #FFFFFF;
+}
+.header-title {
+    font-weight: 700;
+    font-size: 2.5rem;
+    margin: 3rem 0 0 0;
+}
+.header-subtitle {
+    font-weight: 200;
+    font-size: 1.5rem;
+    margin: 0 0 3rem 0;
+}
+
+.row-1-col-1 {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #acffbb; 
+    height: 27em; 
+}
+
+.row-1-col-2 { 
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #acffbb; 
+    height: 27em;
+}
+
+.row-2 { 
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #9dd3ff; 
+    height: 30em; 
+}
+
+.row-3 { 
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #ffc8e6; 
+    height: 30em; 
+}
