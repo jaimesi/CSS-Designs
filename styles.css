@@ -62,3 +62,13 @@ body {
     background-color: #ffc8e6; 
     height: 30em; 
 }
+
+.row-4 { 
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #1E1E1E; 
+    height: 46em; 
+}
